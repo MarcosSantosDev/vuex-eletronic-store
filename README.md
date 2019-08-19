@@ -15,16 +15,8 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+## Author
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Marcos Santos - Software Developer 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vuex-eletronic-store
+  - [GitHub](https://github.com/MarcosSantosDev) / [Linkedin](https://www.linkedin.com/in/marcossantosdev/)
